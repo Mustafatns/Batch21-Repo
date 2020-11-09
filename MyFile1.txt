@@ -1,1 +1,2 @@
-Testing somthing :D
+Testing something :D
+Adding some text here to see how it works
